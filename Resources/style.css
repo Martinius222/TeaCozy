@@ -24,6 +24,7 @@ h5 {
 /*Header and Navigation*/
 
 nav {
+	top: 0; 
 	width: 100%;
 	height: 69px;
 	display: flex;
@@ -55,9 +56,7 @@ a {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	margin: 0 auto 150px auto;
-	position: relative;
-	top: 70px;
+	margin: 70px auto 70px auto;
 	background-image: url(./Images/img-mission-background.jpg);
 }
 
